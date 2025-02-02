@@ -19,15 +19,15 @@ v1.0
 ![466739791_1179738926868001_4905679923011781978_n](https://github.com/user-attachments/assets/13133713-2c48-4fa6-aab8-016d9fa6601d)
 
 v1.0
-12.2025
+12.2024
 
 <br>
 <h1>Elysium Gamified: Live and AI Chat Support<br></h1>
 <b>Completed</b>
 
-[[https://github.com/Diansensei/Dian-AI](https://github.com/Diansensei/Socials-by-Diantech)](https://github.com/Diansensei/elysium-v5)
+(https://github.com/Diansensei/elysium-v5)
 
 ![photo_6114087947214110409_y](https://github.com/user-attachments/assets/f7d3ae6b-77fd-4fac-90bb-31fca17b4046)        ![photo_6114087947214110405_y](https://github.com/user-attachments/assets/365ca149-80be-43d0-a5fa-2eb27039163c)
 
 v1.0
-12.2025
+8.2025
